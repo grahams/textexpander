@@ -1,0 +1,10 @@
+This is a collection of TextExpander snippets I've written or modified.
+Right now, it is a collection of one.
+
+==
+
+googl-shortener.applescript  
+    Create goo.gl shortened URL - The "Internet Productivity" bundle that
+    TextExpander provides includes several script snippets for shortening URLs.
+    I wanted to use Google's shortner, so I wrote this script, which is
+    adapted from Smile's bit.ly shortener.

@@ -1,8 +1,6 @@
 #!/usr/bin/python
 
-# depends on http://code.google.com/p/python-googl/
-
-import googl
+import googl # http://code.google.com/p/python-googl/
 
 key = "myKeyFromGoogleApiConsole"
 

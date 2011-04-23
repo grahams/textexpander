@@ -8,3 +8,9 @@ googl-shortener.applescript
     TextExpander provides includes several script snippets for shortening URLs.
     I wanted to use Google's shortner, so I wrote this script, which is
     adapted from Smile's bit.ly shortener.
+
+googl-shortener.py
+    Create goo.gl shortened URL - I am not really a fan of AppleScript at
+    all, so this version of the goo.gl shortener is a python script which 
+    can be called from TextExpander as a shell script.  
+    Depends on http://code.google.com/p/python-googl/

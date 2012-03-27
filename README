@@ -14,3 +14,7 @@ googl-shortener.py
     all, so this version of the goo.gl shortener is a python script which 
     can be called from TextExpander as a shell script.  
     Depends on http://code.google.com/p/python-googl/
+
+bacon-ipsum.py
+    Get two paragraphs of bacon ipsum text.  Based on the AppleScript
+    version here: https://gist.github.com/2220524

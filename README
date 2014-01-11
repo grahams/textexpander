@@ -17,3 +17,6 @@ googl-shortener.py
 bacon-ipsum.py
     Get two paragraphs of bacon ipsum text.  Based on the AppleScript
     version here: https://gist.github.com/2220524
+
+convert-to-uppercase.py
+    Converts the current clipboard to all caps

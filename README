@@ -12,7 +12,7 @@ googl-shortener.py
     Create goo.gl shortened URL - I am not really a fan of AppleScript at
     all, so this version of the goo.gl shortener is a python script which 
     can be called from TextExpander as a shell script.  
-    Depends on http://code.google.com/p/python-googl/
+    Depends on https://code.google.com/p/google-api-python-client/
 
 bacon-ipsum.py
     Get two paragraphs of bacon ipsum text.  Based on the AppleScript
